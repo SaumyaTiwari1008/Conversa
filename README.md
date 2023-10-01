@@ -14,5 +14,11 @@ Key technical features of the project include:
 
 3. **User-friendly Interface**:
    - The interface is designed with a focus on simplicity and ease of use. Users will find it intuitive and straightforward, facilitating smooth communication between connected individuals.
+   - ![1](https://github.com/SaumyaTiwari1008/Conversa/assets/131397199/302b8228-223f-4f6f-b797-aa9fa0aa0580)
+   ![2](https://github.com/SaumyaTiwari1008/Conversa/assets/131397199/1399e80e-c42b-4571-82d2-64992d43474d)
+
+- ![3](https://github.com/SaumyaTiwari1008/Conversa/assets/131397199/f32cbee3-4662-45ff-baa2-6809848afae4)
+
+
 
 Overall, this real-time chatting project showcases my adeptness in utilizing Node.js, Socket.IO, HTML, CSS, and JavaScript to create an interactive platform for users to connect and communicate in real-time. The combination of these technologies results in a seamless and engaging chatting experience.
